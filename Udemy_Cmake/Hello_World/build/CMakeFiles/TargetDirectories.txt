@@ -1,0 +1,3 @@
+/mnt/d/SaveFiles/Course/Udemy_Cmake/Hello_World/build/CMakeFiles/main.dir
+/mnt/d/SaveFiles/Course/Udemy_Cmake/Hello_World/build/CMakeFiles/edit_cache.dir
+/mnt/d/SaveFiles/Course/Udemy_Cmake/Hello_World/build/CMakeFiles/rebuild_cache.dir

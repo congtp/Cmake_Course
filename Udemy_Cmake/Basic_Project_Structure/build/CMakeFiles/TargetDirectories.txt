@@ -1,0 +1,4 @@
+/mnt/d/SaveFiles/Course/Udemy_Cmake/Basic_Project_Structure/build/CMakeFiles/Library.dir
+/mnt/d/SaveFiles/Course/Udemy_Cmake/Basic_Project_Structure/build/CMakeFiles/main.dir
+/mnt/d/SaveFiles/Course/Udemy_Cmake/Basic_Project_Structure/build/CMakeFiles/edit_cache.dir
+/mnt/d/SaveFiles/Course/Udemy_Cmake/Basic_Project_Structure/build/CMakeFiles/rebuild_cache.dir
