@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLibrary.a CMakeFiles/Library.dir/shape.c.o CMakeFiles/Library.dir/Rectangle.c.o
+/usr/bin/ranlib libLibrary.a
